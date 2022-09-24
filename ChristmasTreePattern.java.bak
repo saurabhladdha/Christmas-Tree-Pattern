@@ -30,7 +30,7 @@ System.out.print(" ");
 }  
 for(int k = 2;k > 0;k--)  
 {  
-System.out.print("| ");  
+System.out.print(". ");  
 }  
 System.out.println();  
 }// end of lower part  
